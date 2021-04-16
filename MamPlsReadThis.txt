@@ -1,0 +1,2 @@
+Mam it is showing an error when we run the project using "#%%" but when we run the project using "Control + F5" we are
+able to see the graphs and Printed Values
